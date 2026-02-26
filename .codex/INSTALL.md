@@ -56,8 +56,6 @@ You should see a symlink (or junction on Windows) pointing to your superpowers s
 cd ~/.codex/superpowers && git pull
 ```
 
-Skills update instantly through the symlink.
-
 ## Uninstalling
 
 ```bash
